@@ -21,12 +21,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0876-hand-of-straights](https://github.com/vishnu-018/Leetcode-answers/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/vishnu-018/Leetcode-answers/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/vishnu-018/Leetcode-answers/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/vishnu-018/Leetcode-answers/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/vishnu-018/Leetcode-answers/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/vishnu-018/Leetcode-answers/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/vishnu-018/Leetcode-answers/tree/master/0876-hand-of-straights) |
+| [1217-relative-sort-array](https://github.com/vishnu-018/Leetcode-answers/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/vishnu-018/Leetcode-answers/tree/master/1217-relative-sort-array) |
