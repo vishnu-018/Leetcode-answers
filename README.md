@@ -42,3 +42,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnu-018/Leetcode-answers/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/vishnu-018/Leetcode-answers/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/vishnu-018/Leetcode-answers/tree/master/1078-remove-outermost-parentheses) |
+<!---LeetCode Topics End-->
