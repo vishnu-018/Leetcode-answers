@@ -5,11 +5,11 @@ public:
         {
             if((num[i]-'0')%2==0)
             {
-                num.pop_back();
+               num.pop_back();
             }
             else
             {
-                return num;
+             return num;
             }
         }
         return "";
