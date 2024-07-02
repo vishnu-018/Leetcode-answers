@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vishnu-018/Leetcode-answers/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/vishnu-018/Leetcode-answers/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/vishnu-018/Leetcode-answers/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vishnu-018/Leetcode-answers/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
