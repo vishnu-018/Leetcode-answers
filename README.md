@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vishnu-018/Leetcode-answers/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/vishnu-018/Leetcode-answers/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -80,5 +81,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vishnu-018/Leetcode-answers/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/vishnu-018/Leetcode-answers/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vishnu-018/Leetcode-answers/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
