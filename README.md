@@ -83,8 +83,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/vishnu-018/Leetcode-answers/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/vishnu-018/Leetcode-answers/tree/master/0283-move-zeroes) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/vishnu-018/Leetcode-answers/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vishnu-018/Leetcode-answers/tree/master/0048-rotate-image) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/vishnu-018/Leetcode-answers/tree/master/2508-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/vishnu-018/Leetcode-answers/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
